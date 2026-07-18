@@ -2,6 +2,10 @@
 
 Important : en cas de mise à jour disponible pour laquelle il n'y a pas d'information dans cette section, c'est qu'elle n'intègre aucune nouveauté majeure. Cela peut être un ajout de documentation, une correction de documentation, des traductions ou bien de la correction de bugs mineurs.
 
+## Juillet 2026
+Mise à jour des calendriers scolaire, 2026-2027 pour les zones France : A,B et C
+Mise à jour des calendriers scolaire, 2026-2027 pour la Belgique
+
 ## Mai 2022
 Mise à jour des calendriers scolaire, 2022-2023 pour les zones France : A,B et C
 
