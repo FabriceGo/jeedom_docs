@@ -6,35 +6,32 @@ Important : en cas de mise à jour disponible pour laquelle il n'y a pas d'infor
 Mise à jour des calendriers scolaire, 2026-2027 pour les zones France : A,B et C
 Mise à jour des calendriers scolaire, 2026-2027 pour la Belgique
 
+## Mars 2026
+Divers optimisation du cose pour Jeedom v4.4 et +
+Version Jeedom v4.4 minimu
+
 ## Mai 2022
 Mise à jour des calendriers scolaire, 2022-2023 pour les zones France : A,B et C
 
 ## Janvier 2022
-
 Ajout de l'occurence du jour dans le mois et statut dernière occurence du jour dans le mois
 
 ## Mai 2021
-
 Mise à jour des calendriers scolaire, 2021-2022 pour les zones France : A,B et C
 
 ## Janvier 2020
-
 Possibilité d'utiliser la configuration géographique de Jeedom directement (nécessite le core en 4.0.36 minimum)
 
 ## Octobre 2019
-
 Ajout du numéro du jour de l'année
 
 ## 15 Mai 2018
-
 Ajout du calendrier 2018-2019 France
 
 ## Mars 2018
-
 Refonte de la doc
 
 ## Version octobre 2017
-
 Refonte complète avec passage sur différents types d'équipements
 
 Passage en dépendance sur le plugin Localisation et Trajet (geotrav) pour la définition du lieu
